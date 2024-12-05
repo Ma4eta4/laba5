@@ -1,0 +1,5 @@
+com.example.labaratornaya5mobliki.test.app-core-1.6.1-0 C:\Users\Dzhej\.gradle\caches\transforms-4\e55ed4e6aa3373ab84b8d900a408c554\transformed\core-1.6.1\res
+com.example.labaratornaya5mobliki.test.app-androidTest-1 E:\Laba5-main\app\build\generated\res\resValues\androidTest\debug
+com.example.labaratornaya5mobliki.test.app-mergeDebugAndroidTestResources-2 E:\Laba5-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.labaratornaya5mobliki.test.app-mergeDebugAndroidTestResources-3 E:\Laba5-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.labaratornaya5mobliki.test.app-debugAndroidTest-4 E:\Laba5-main\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
